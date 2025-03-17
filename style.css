@@ -3220,3 +3220,8 @@ margin-left:0;margin-top:8px;}
 .nav-fixed-top{
   box-shadow: 0 5px 25px rgba(0,0,0,.17);
 }
+@media (max-width: 767px) {
+  .slider-caption h2, .single-post-title {
+    font-size: 35px;
+  }
+}
