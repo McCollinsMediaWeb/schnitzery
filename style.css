@@ -3212,10 +3212,10 @@ margin-left:0;margin-top:8px;}
  .nav-fixed-top .icon-bar,
  .nav-fixed-top .icon-bar::before, 
  .nav-fixed-top .icon-bar::after{
-  background-color: #252525;
+  background-color: #fff;
  }
  .nav-fixed-top .social-media1 li a {
-  color: #252525;
+  color: #fff;
 }
 .nav-fixed-top{
   box-shadow: 0 5px 25px rgba(0,0,0,.17);
